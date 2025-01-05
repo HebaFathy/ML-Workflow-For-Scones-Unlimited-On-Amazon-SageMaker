@@ -1,6 +1,6 @@
 In this project, we built an image classification model that can automatically detect which kind of vehicle delivery drivers have, in order to route them to the correct loading bay and orders. Assigning delivery professionals who have a bicycle to nearby orders and giving motorcyclists orders that are farther can help Scones Unlimited optimize their operations.
 
-Project Steps Overview
+### Project Steps Overview
 
 Step 1: Data staging
 
